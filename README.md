@@ -43,7 +43,7 @@ I am Ethan, I am passionate about developing web applications and striving to cr
   
 <br/>
 <a href="https://github.com/ethanau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethanau&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethanau&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanau&theme=buefy&layout=compact" />
 </a>
 
